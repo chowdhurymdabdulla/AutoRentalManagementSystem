@@ -1,0 +1,12 @@
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSClientApp.exe.config
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSClientApp.exe
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSClientApp.pdb
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSBOLayer.dll
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\bin\Debug\ARMSBOLayer.pdb
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csprojAssemblyReference.cache
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.Properties.Resources.resources
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csproj.GenerateResource.cache
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csproj.CoreCompileInputs.cache
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.csproj.CopyComplete
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.exe
+F:\Summer Project\EZrental Inc\AutoRentalManagementSystem\ARMSClientApp\obj\Debug\ARMSClientApp.pdb
