@@ -30,6 +30,8 @@ namespace ARMSBOLayer
             get { return m_flagIsDeleted; }
         }
 
+        //is a test
+        //abasdsa
         //Protected Instance Method
         protected void MarkDirty()
         {
